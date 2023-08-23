@@ -1,0 +1,8 @@
+name : null
+channels: 
+  - conda-forge
+  - defaults
+dependancies: 
+  - python3
+  - pip
+  - jupyter
